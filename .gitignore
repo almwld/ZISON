@@ -1,0 +1,29 @@
+# Flutter
+build/
+.dart_tool/
+.idea/
+.vscode/
+*.iml
+*.lock
+*.log
+*.pid
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+*.apk
+*.aab
+*.jar
+*.class
+*.dex
+*.so
+*.zip
+*.tar.gz
+
+# المشاريع المتداخلة
+Sehatak-Final/
+home/
+../Sehatak-Final/
+../../Sehatak-Final/
+../../../Sehatak-Final/
+../../../home/
